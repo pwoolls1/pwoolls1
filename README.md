@@ -1,16 +1,22 @@
-## Hi there 👋
+# <Your Name Here>
 
-<!--
-**pwoolls1/pwoolls1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Parker Woolsey, a student at Brigham Young University-Idaho interested in Graphic Design, web development, learning the guitar and much more. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning about web design and development, as well as graphic design!
+- My goals are to graduate with a bachelor's and see where life takes me from there. 
+- Ask me about anything really, I might have an answer for you!
+
+## Technologies and Tools
+
+- Proficient in: Illustrator, Photoshop and InDesign
+- Skills: Windows 11, Adobe, etc. 
+
+## Let's Connect!
+
+- Here is my LinkedIn profile: https://www.linkedin.com/in/parker-woolsey-011487392
+  
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
